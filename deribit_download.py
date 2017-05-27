@@ -6,6 +6,8 @@ from my_model import *
 import syslog
 import time
 import sys
+import os
+
 
 def float_or_m1(thing):
     try:
