@@ -1,0 +1,40 @@
+{
+    "notifications": [
+        {
+            "success": true,
+            "testnet": false,
+            "message": "order_book_event",
+            "result": {
+                "instrument": "BTC-30JUN17-2100-C",
+                "bids": [
+                    {
+                        "quantity": 1.0,
+                        "price": 0.1387,
+                        "cm": 1.0
+                    },
+                    {
+                        "quantity": 20.0,
+                        "price": 0.117,
+                        "cm": 21.0
+                    }
+                ],
+                "asks": [
+                    {
+                        "quantity": 20.0,
+                        "price": 0.189,
+                        "cm": 20.0
+                    },
+                    {
+                        "quantity": 1.0,
+                        "price": 0.2097,
+                        "cm": 21.0
+                    }
+                ],
+                "last": 0.2,
+                "low": "",
+                "high": ""
+            }
+        }
+    ],
+    "msOut": 1495831161636
+}
