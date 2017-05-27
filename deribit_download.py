@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 from deribit_api import RestClient
 import websocket
 import json
